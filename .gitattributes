@@ -3,3 +3,4 @@ Lab2/2-5Android/app/build/intermediate/instant-run-apk/debug/VuforiaSamples-8-0-
 Lab2/2-2/Assets/SamplesResources/AugmentationAssets/Models/Astronaut.FBX filter=lfs diff=lfs merge=lfs -text
 Lab2/2-5Android/app/build/outputs/apk/debug/VuforiaSamples-8-0-10-debug.apk filter=lfs diff=lfs merge=lfs -text
 Lab2/2-5Android/app/build/intermediates/instant-run-apk/debug/VuforiaSamples-8-0-10-debug.apk filter=lfs diff=lfs merge=lfs -text
+Lab2/2-5Android/app/intermediates/instant-run-apk/debug/VuforiaSamples-8-0-10-debug.apk filter=lfs diff=lfs merge=lfs -text

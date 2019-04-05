@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":800,"versionName":"8.0","enabled":true,"outputFile":"VuforiaSamples-8-0-10-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.vuforia.engine.CoreSamples","split":"","minSdkVersion":"15"}}]
